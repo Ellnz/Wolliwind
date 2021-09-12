@@ -1,27 +1,34 @@
 # Vvardenfell - Ecology
-A compilation of replacers that focus on the wilderness (both biotic and abiotic!) of Vvardenfell.
+A compilation of mods and replacers that focus on Vvardenfell's natural world.
 
 ### Prerequisites:
 Before installing Vvardenfell-Habitats, first install:
 Patch for Purists
 Morrowind Optimization Patch
-Intelligent Textures (if using #02 or #04)
+Intelligent Textures (if using #012 or #014)
 
-### 01 Leafy Trees
+### 011 Leafy Trees
 Replaces the vanilla tree models with new models that have a far higher density of leaves, as while as some UV fixes and optimizations. Can be used with either vanilla textures, or replacers textures in 02.
 Covers: AI
 
-### 02 HD Plant Pack
+### 012 HD Plant Pack
 A collection of HD replacers for most flora textures and smaller flora meshes (both static plants and organic containers). All replacers have been created with a specific focus on spatial and stylistic homogeny with vanilla assets. 
 
-### 03 Rock Rollout
+### 013 Rock Rollout
 Rock model replacers based upon Nich's Seamless UV rocks replacer. These rocks have the aforementioned UV fixes, as well as improved collision meshes and some slight (so tasteful) smoothing around the most jagged parts.
 
-### 04 Ltex Override
+### 014 Ltex Override
 A complete re-work of Otis_Geo's Vanilla Land, designed to be even more analogous with vanilla designs and colours. Intended to be installed over Intelligent Textures. Also downscales the textures from 2048x to 1024. Designed to be used alongside  HD Tamriel Data's Ltex textures.
 
+### 021 Spores and Ores
+Adds bloat spores, coal and rare gem viens to caves throughout Vvardenfell. Also adds gems and coal to vanilla level lists.
+
+### 022 Mad Butchers Meat
+Add's Tamriel Data's cliff racer, guar, kagoui and kwama meat to the the respective vanilla creatures.
+
+
 ## New Zealand Plants:
-As I am a New Zealand ecologist, numerous indigenous plants from Aotearoa have made their way into the mod. Big thanks to Prof. Gillman for many of the original source textures.
+As a New Zealand ecologist, numerous indigenous plants from Aotearoa have made their way into the mod. Big thanks to Prof. Gillman for many of the original source textures.
 - Metrosideros robusta (northern rata) -> tx_leaves_02 (AI leaves bright)
 - Fuscospora cliffortioides (mountain beech) -> tx_leaves_01 (AI leaves dark)
 - Phyllocladus trichomanoides (Tanekaha) -> tx_leaves_03 (AI bush)
